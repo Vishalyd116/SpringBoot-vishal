@@ -1,6 +1,5 @@
 # SpringBoot-vishal
 echo "# SpringBoot-vishal" >> README.md
-
 git init
 
 git add README.md
